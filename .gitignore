@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+db.cpython-310.pyc
+ui.cpython-310.pyc
+
+# Database
+*.db
